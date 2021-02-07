@@ -1,0 +1,19 @@
+{
+  "name": "@cyrilpayumo/cyrilpayumo",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.html",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyrilpayumo/cyrilpayumo.git"
+  },
+  "author": "cy269",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyrilpayumo/cyrilpayumo/issues"
+  },
+  "homepage": "https://github.com/cyrilpayumo/cyrilpayumo#readme"
+}
